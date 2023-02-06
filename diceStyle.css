@@ -1,3 +1,9 @@
 input {
     text-align: right;
 }
+
+body {
+    background-color: mediumaquamarine;
+    color: purple;
+    text-size-adjust: 150%;
+}

@@ -1,6 +1,10 @@
 
 function RollSixSidedDice(){
     document.getElementById("dice").value = Math.floor(Math.random()*6) + 1;
+    document.getElementById("dice").value = Math.floor(Math.random()*6) + 1;
+    document.getElementById("dice").value = Math.floor(Math.random()*6) + 1;
+    document.getElementById("dice").value = Math.floor(Math.random()*6) + 1;
+    document.getElementById("dice").value = Math.floor(Math.random()*6) + 1;
     //var randomnum1 = Math.floor(Math.random() * 6) + 1;
     //var randomnum2 = Math.floor(Math.random() * 6) + 1;
     //var randomnum3 = Math.floor(Math.random() * 6) + 1;

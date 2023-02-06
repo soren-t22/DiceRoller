@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ee229bfc-9dfa-47f5-ae83-a01c40cf84ee/AppServices/subscriptions/ee229bfc-9dfa-47f5-ae83-a01c40cf84ee/resourceGroups/DiceRoller-rg/providers/Microsoft.Web/sites/SorenThrawl-DiceRoller",
+    "appService.deploySubpath": "."
+}

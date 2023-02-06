@@ -1,5 +1,5 @@
 
-function RollSixSidedDice(){
+function Roll5Dice(){
     
     var randomnum1 = (Math.floor(Math.random() * 6) + 1);
     var randomnum2 = (Math.floor(Math.random() * 6) + 1);

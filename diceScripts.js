@@ -14,3 +14,4 @@ function RollSixSidedDice(){
     document.getElementById("dice5").value = randomnum5;
     
 }
+
